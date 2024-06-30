@@ -1,4 +1,4 @@
 # UR-ERN
-Repository for "Uncertainty Regularized Evidential Regression" published in AAAI 2024
+This repository contains the source code associated with our paper titled "Uncertainty Regularized Evidential Regression" which has been accepted at AAAI 2024.
 
-The codes will be available after official acceptance
+Paper link: [Uncertainty Regularized Evidential Regression](https://doi.org/10.1609/aaai.v38i15.29583)
