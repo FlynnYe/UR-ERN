@@ -7,6 +7,10 @@ Paper link: [Uncertainty Regularized Evidential Regression](https://doi.org/10.1
 
 We would like to thank [teddykoker](https://github.com/teddykoker) for their PyTorch implementation of Evidential Regression Networks (ERN) in the [evidential-learning-pytorch](https://github.com/teddykoker/evidential-learning-pytorch) repository. 
 
+## See Also
+
+- [aamini/evidential-deep-learning](https://github.com/aamini/evidential-deep-learning), original code for [Deep Evidential Regression](https://arxiv.org/abs/1910.02600) in Tensorflow/Keras
+
 ## Citing This Work
 
 If you find this work useful in your research, please consider citing:
