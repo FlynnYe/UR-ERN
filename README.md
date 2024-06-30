@@ -3,6 +3,10 @@ This repository contains the source code associated with our paper titled "Uncer
 
 Paper link: [Uncertainty Regularized Evidential Regression](https://doi.org/10.1609/aaai.v38i15.29583)
 
+## Acknowledgments
+
+We would like to thank [teddykoker](https://github.com/teddykoker) for their PyTorch implementation of Evidential Regression Networks (ERN) in the [evidential-learning-pytorch](https://github.com/teddykoker/evidential-learning-pytorch) repository. 
+
 ## Citing This Work
 
 If you find this work useful in your research, please consider citing:
